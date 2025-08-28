@@ -32,7 +32,7 @@
 ## 📊 Visualization Report  
 
 The full interactive analysis was developed in **Power BI** and exported as PDF.  
-- 📂 [View Report (PDF)](./Unemployment_by_Age_Indonesia_2021_2024.pdf)  
+- 📂 [View Report (PDF)](./Visualisasi_Pengganguran_2020-2024.pdf)  
 
 *(Open directly in GitHub or download for better viewing.)*  
 
